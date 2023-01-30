@@ -6,16 +6,16 @@ I work as fullstack between 2008 and 2014. During this period I worked with *C#,
 
 #### LIBS
 
-| **Name**                        | **Stack**                | **Description**                    | **Link**                                            |
-| ------------------------------- | ------------------------ | ---------------------------------- | --------------------------------------------------- |
-| barcode-reader-zbar-c           | C                        | Barcode reader       | https://github.com/emirdeliz/barcode-reader-zbar-c                |
-| barcode-reader-zbar-webassembly | Js/Typescript/Webassemly | Barcode reader       | https://www.npmjs.com/package/barcode-reader-zbar-webassembly     |
-| barcode_reader_webassembly      | Js/Dart                  | Barcode reader.      | https://pub.dev/packages/barcode_reader_webassembly               |
-| upload-largest-files            | Js/Typescript            | Upload large files   | https://www.npmjs.com/package/upload-largest-files                |
-| upload_largest_files            | Js/Dart                  | Upload large files   | https://pub.dev/packages/upload_largest_files                     |
-| count_down_time                 | Dart                     | Count-down timer     | https://pub.dev/packages/count_down_time                          |
-| menu_float                      | Js/Dart                  | Menu float           | https://pub.dev/packages/menu_float                               |
-| dart_web_plugin_base            | Dart                     | Dart web plugin base | https://pub.dev/packages/dart_web_plugin_base                     |
+| **Name**                        | **Stack**                | **Description**                    | **Link**                                           |
+| ------------------------------- | ------------------------ | ---------------------------------- | -------------------------------------------------- |
+| barcode-reader-zbar-c           | C                        | Barcode reader       | https://github.com/emirdeliz/barcode-reader-zbar-c               |
+| barcode-reader-zbar-webassembly | Js/Typescript/Webassemly | Barcode reader       | https://www.npmjs.com/package/barcode-reader-zbar-webassembly    |
+| barcode_reader_webassembly      | Js/Dart                  | Barcode reader.      | https://pub.dev/packages/barcode_reader_webassembly              |
+| upload-largest-files            | Js/Typescript            | Upload large files   | https://www.npmjs.com/package/upload-largest-files               |
+| upload_largest_files            | Js/Dart                  | Upload large files   | https://pub.dev/packages/upload_largest_files                    |
+| count_down_time                 | Dart                     | Count-down timer     | https://pub.dev/packages/count_down_time                         |
+| menu_float                      | Js/Dart                  | Menu float           | https://pub.dev/packages/menu_float                              |
+| dart_web_plugin_base            | Dart                     | Dart web plugin base | https://pub.dev/packages/dart_web_plugin_base                    |
 
 #### CHROME EXTENSIONS
 
@@ -25,8 +25,8 @@ I work as fullstack between 2008 and 2014. During this period I worked with *C#,
 
 #### VSCODE EXTENSIONS
 
-| **Name**                            | **Stack**                | **Description**                    | **Link**                                        |
-| -------------------------------     | ------------------------ | ---------------------------------- | ----------------------------------------------- |
+| **Name**                                 | **Stack**                | **Description**                    | **Link**                                  |
+| ---------------------------------------- | ------------------------ | ---------------------------------- | ----------------------------------------- |
 | emirdeliz-vs-extension-utils             | JS/Typescript | Vs extensions utils      | https://github.com/emirdeliz/emirdeliz-vs-extension-utils      |
 | emirdeliz-multiple-repository-utils      | JS/Typescript | Vs multi-repo utils      | https://github.com/emirdeliz/http-interceptor-cache            |
 | emirdeliz-dart-multiple-repository-utils | JS/Typescript | Vs dart multi-repo utils | https://github.com/emirdeliz/emirdeliz-dart-multiple-repository-utils |
