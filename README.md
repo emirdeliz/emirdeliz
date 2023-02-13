@@ -39,13 +39,14 @@ I work as fullstack between 2008 and 2014. During this period I worked with *C#,
 
 #### DOCKER IMAGES
 
-| **Name**                | **Description**          |     **Link**                                                               |
-| ----------------------- | ------------------------ | -------------------------------------------------------------------------- |
-| gitlab-ci-flutter       | Gitlab Flutter           | https://hub.docker.com/repository/docker/emirdeliz/gitlab-ci-flutter       |
-| flutter                 | Flutter                  | https://hub.docker.com/repository/docker/emirdeliz/flutter                 |
-| eugenmayer-rsync-arm-64 | Rsync ARM64              | https://hub.docker.com/repository/docker/emirdeliz/eugenmayer-rsync-arm-64 |
-| cpp-opencv              | Cpp+Opencv               | https://hub.docker.com/repository/docker/emirdeliz/cpp-opencv              |
-| gitlab-ci-flutter-node  | Gitlab+Flutter+Node      | https://hub.docker.com/repository/docker/emirdeliz/gitlab-ci-flutter-node  |
+| **Name**                         | **Description**             |     **Link**                                                               |
+| -------------------------------- | --------------------------- | -------------------------------------------------------------------------- |
+| gitlab-ci-flutter                | Gitlab Flutter              | https://hub.docker.com/repository/docker/emirdeliz/gitlab-ci-flutter       |
+| flutter                          | Flutter                     | https://hub.docker.com/repository/docker/emirdeliz/flutter                 |
+| eugenmayer-rsync-arm-64          | Rsync ARM64                 | https://hub.docker.com/repository/docker/emirdeliz/eugenmayer-rsync-arm-64 |
+| cpp-opencv                       | Cpp+Opencv                  | https://hub.docker.com/repository/docker/emirdeliz/cpp-opencv              |
+| gitlab-ci-flutter-node           | Gitlab+Flutter+Node         | https://hub.docker.com/repository/docker/emirdeliz/gitlab-ci-flutter-node  |
+| emirdeliz-vs-workspace-container | Base config to vs container | https://github.com/emirdeliz/emirdeliz-vs-workspace-container              |
 
 ## How to reach me?
  https://www.linkedin.com/in/emir-marques-778b3114/
