@@ -50,7 +50,7 @@ I work as fullstack between 2008 and 2014. During this period I worked with *C#,
 | emirdeliz-vs-workspace-container | Base config to vs container | https://github.com/emirdeliz/emirdeliz-vs-workspace-container              |
 
 ## How to reach me?
- https://www.linkedin.com/in/emir-marques-778b3114/
+ https://www.linkedin.com/in/emirdeliz
 
 <!---
 emirdeliz/emirdeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
