@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @emirdeliz
 
-I work as a fullstack between 2008 and 2014. During this period I worked with *C#, Delphi, Java*, and some other stuff like SQLServer, MySql and etc. Around 2014 I decided to focus only on frontend . So I worked with some technologies like angular1/2, react, react-native, dart, flutter. By the way, I like to use the VanillaJs in most of my projects. I like to work in startups e always look for continuous improvements.
+I work as a fullstack between 2008 and 2014. During this period I worked with *C#, Delphi, Java*, and some other stuff like SQLServer, MySql and etc. Around 2014 I decided to focus only on frontend. So I worked with some technologies like angular1/2, react, react-native, dart, and flutter. By the way, I like to use the VanillaJs in most of my projects. I like to work in startups and always look for continuous improvements.
 
 ## Below are some of my contributions to the community:
 
