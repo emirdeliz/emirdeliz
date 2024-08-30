@@ -31,7 +31,7 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 | ---------------------------------------- | ------------------------ | ---------------------------------- | -------------------------------------------------|
 | emirdeliz-vs-extension-utils             | JS/Typescript | Vs extensions utils      | https://github.com/emirdeliz/emirdeliz-vs-extension-utils             |
 | emirdeliz-multiple-repository-utils      | JS/Typescript | Vs multi-repo utils      | https://github.com/emirdeliz/emirdeliz-multiple-repository-utils      |
-| emirdeliz-dart-multiple-repository-utils | JS/Typescript | Vs dart multi-repo utils | https://github.com/emirdeliz/emirdeliz-dart-multiple-repository-utils |
+| emirdeliz-dart-multiple-repository-utils | JS/Typescript | Vs dart multi-repo utils | https://github.com/emirdeliz/gitlab-slack-notification                |
 
 #### CHROME ACTIONS
 
