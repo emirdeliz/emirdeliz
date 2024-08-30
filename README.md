@@ -50,9 +50,6 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 | gitlab-ci-flutter-node           | Gitlab+Flutter+Node         | https://hub.docker.com/repository/docker/emirdeliz/gitlab-ci-flutter-node  |
 | emirdeliz-vs-workspace-container | Base config to vs container | https://github.com/emirdeliz/emirdeliz-vs-workspace-container              |
 
-## How to reach me?
- https://www.linkedin.com/in/emirdeliz
-
 ## Other projects:
 
 | **Name**                                 | **Stack**                 | **Description**                         | **Link**                                                       |
@@ -62,7 +59,9 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 | emirdeliz-vs-workspace-container         | Yml/Sh                    | Base config to vscode devcontainer      | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
 | gitlab-slack-notification                | Yml/Sh                    | Sample config to call Slack from Gitlab | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
 
-
+## How to reach me?
+ https://www.linkedin.com/in/emirdeliz
+ 
 <!---
 emirdeliz/emirdeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
