@@ -6,17 +6,18 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 
 #### LIBS
 
-| **Name**                        | **Stack**                | **Description**                    | **Link**                                           |
-| ------------------------------- | ------------------------ | ---------------------------------- | -------------------------------------------------- |
-| barcode-reader-zbar-c           | C                        | Barcode reader       | https://github.com/emirdeliz/barcode-reader-zbar-c               |
-| barcode-reader-zbar-webassembly | Js/Typescript/Webassemly | Barcode reader       | https://www.npmjs.com/package/barcode-reader-zbar-webassembly    |
-| barcode_reader_webassembly      | Js/Dart                  | Barcode reader.      | https://pub.dev/packages/barcode_reader_webassembly              |
-| rn-calendar-simple              | Js/Typescript            | Simple calendar      | https://www.npmjs.com/package/rn-calendar-simple                 |
-| upload-largest-files            | Js/Typescript            | Upload large files   | https://www.npmjs.com/package/upload-largest-files               |
-| upload_largest_files            | Js/Dart                  | Upload large files   | https://pub.dev/packages/upload_largest_files                    |
-| count_down_time                 | Dart                     | Count-down timer     | https://pub.dev/packages/count_down_time                         |
-| menu_float                      | Js/Dart                  | Menu float           | https://pub.dev/packages/menu_float                              |
-| dart_web_plugin_base            | Dart                     | Dart web plugin base | https://pub.dev/packages/dart_web_plugin_base                    |
+| **Name**                        | **Stack**                | **Description**                    | **Link**                                                 |
+| ------------------------------- | ------------------------ | ---------------------------------- | -------------------------------------------------------- |
+| barcode-reader-zbar-c           | C                        | Barcode reader             | https://github.com/emirdeliz/barcode-reader-zbar-c               |
+| barcode-reader-zbar-webassembly | Js/Typescript/Webassemly | Barcode reader             | https://www.npmjs.com/package/barcode-reader-zbar-webassembly    |
+| barcode_reader_webassembly      | Js/Dart                  | Barcode reader.            | https://pub.dev/packages/barcode_reader_webassembly              |
+| rn-calendar-simple              | Js/Typescript            | Simple calendar            | https://www.npmjs.com/package/rn-calendar-simple                 |
+| upload-largest-files            | Js/Typescript            | Upload large files         | https://www.npmjs.com/package/upload-largest-files               |
+| diff-json-keys                  | Js/Typescript            | Get the diff from two JSON | https://www.npmjs.com/package/diff-json-keys                     |
+| upload_largest_files            | Js/Dart                  | Upload large files         | https://pub.dev/packages/upload_largest_files                    |
+| count_down_time                 | Dart                     | Count-down timer           | https://pub.dev/packages/count_down_time                         |
+| menu_float                      | Js/Dart                  | Menu float                 | https://pub.dev/packages/menu_float                              |
+| dart_web_plugin_base            | Dart                     | Dart web plugin base       | https://pub.dev/packages/dart_web_plugin_base                    |
 
 #### CHROME EXTENSIONS
 
@@ -51,6 +52,16 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 
 ## How to reach me?
  https://www.linkedin.com/in/emirdeliz
+
+## Other projects:
+
+| **Name**                                 | **Stack**                 | **Description**                         | **Link**                                                       |
+| ---------------------------------------- | ------------------------- | --------------------------------------- | -------------------------------------------------------------- |
+| animal-detector-tensorflowjs             | JS/Typescript             | Detector animal from video              | https://github.com/emirdeliz/animal-detector-tensorflowjs      |
+| object-detector-image-webassembly        | JS/Typescript/Webassembly | Image detector                          | https://github.com/emirdeliz/object-detector-image-webassembly |
+| emirdeliz-vs-workspace-container         | Yml/Sh                    | Base config to vscode devcontainer      | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
+| gitlab-slack-notification                | Yml/Sh                    | Sample config to call Slack from Gitlab | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
+
 
 <!---
 emirdeliz/emirdeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
