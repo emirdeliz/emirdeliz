@@ -57,7 +57,7 @@ I work as a fullstack between 2008 and 2014. During this period I worked with *C
 | animal-detector-tensorflowjs             | JS/Typescript             | Detector animal from video              | https://github.com/emirdeliz/animal-detector-tensorflowjs      |
 | object-detector-image-webassembly        | JS/Typescript/Webassembly | Image detector                          | https://github.com/emirdeliz/object-detector-image-webassembly |
 | emirdeliz-vs-workspace-container         | Yml/Sh                    | Base config to vscode devcontainer      | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
-| gitlab-slack-notification                | Yml/Sh                    | Sample config to call Slack from Gitlab | https://github.com/emirdeliz/emirdeliz-vs-workspace-container  |
+| gitlab-slack-notification                | Yml/Sh                    | Sample config to call Slack from Gitlab | https://github.com/emirdeliz/gitlab-slack-notification         |
 
 ## How to reach me?
  https://www.linkedin.com/in/emirdeliz
