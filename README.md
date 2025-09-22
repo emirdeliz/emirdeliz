@@ -1,6 +1,18 @@
 ## 👋 Hi, I’m @emirdeliz
 
-I worked as a fullstack developer between 2008 and 2014. During this period, I worked with C#, Delphi, Java, and other technologies like SQL Server, MySQL, etc. Around 2014, I decided to focus only on frontend development. Since then, I have worked with technologies like Angular 1/2, React, React Native, Dart, and Flutter. By the way, I like to use VanillaJS in most of my projects. I enjoy working in startups and always seek continuous improvement.
+Senior Engineer at Entelgy, I leverage my more than 17 years of experience in web and mobile development to create innovative and user-friendly solutions for various clients and industries. I have a passion for learning new technologies and applying them to solve real-world problems.
+
+My core competencies include WebAssembly, Angular, Typescript, Vanilla JavaScript, React, React-Native, Node, PostgreSQL, and Flutter. I enjoy working with simple and lean development methods, building my own components, and focusing on usability and performance.
+
+I have made some open-source contributions, including libraries for React, React Native, and Flutter. I've also published VS Code extensions and Docker images. Also have experience with complex applications and frontend migration to technologies like React and Tailwind or Styled-Components.
+
+Some of my achievements include:
+- Design system development at several companies I've worked for
+- Complete IoT platform migration from Angular to React, which generated a 70% performance gain.
+- Development of complex widgets using VanillaJS. This created a competitive advantage for the IoT company, which added new features to its IoT portal.
+- Technical leadership of React and React Native, assisting less experienced developers. This significantly impacted the team's performance.
+- Development and publishing of apps in the Apple and Google stores, which increased the company's competitiveness.
+- Development of an AI tool to support software specification using React, Typescript, and Tailwind.
 
 ## Below are some of my contributions to the community:
 
